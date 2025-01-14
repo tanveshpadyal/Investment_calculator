@@ -69,3 +69,7 @@ h1 {
 .table_of_inv::-webkit-scrollbar {
   display: none;
 }
+
+.summary {
+  background: #13915f;
+}
